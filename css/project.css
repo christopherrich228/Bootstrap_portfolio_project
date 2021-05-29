@@ -1,0 +1,62 @@
+body {
+    font-family: "Playfair Display", serif;
+    background-color: rgb(252, 234, 207);
+
+}
+h1, h2, h3, h5, span.first-word{ 
+    font-family: "Sail", cursive;
+}
+h2 {
+    color: #077a11;
+}
+header h2 {
+    color: #5e3e1a;
+}
+span.first-word {
+    font-size: xx-large;
+    font-weight: bold;
+}
+.btn-form{
+    background-color: #25bdb0;
+}
+
+h5, .carousel-anchor, .footer-anchor{
+    color:white;
+}
+
+.card-body {
+    background-color: rgb(252, 234, 207);
+}
+
+.booking-form {
+    font-family: 'Times New Roman', Times, serif;
+}
+.booking-form-header{
+    font-family: serif;
+    background-color: #25bdb0;
+}
+.modal-body{
+    background-color: white;
+}
+.row-content {
+    padding: 10px 0;
+}
+  
+.footer {
+    background-color: #25bdb0;
+    padding: 20px 0; 
+}
+.footer h5 {
+    font-family: serif;
+    color: #000;
+}
+
+.navbar {
+    background-color: #25bdb0;
+ }
+ .carousel {
+    border: solid #25bdb0; 
+  }
+  .carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5); }
+  
